@@ -1,5 +1,4 @@
 # Tester nyt script
 
-print('cddd')
-print('jhjh')
-
+print('111')
+print('222')
